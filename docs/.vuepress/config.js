@@ -3,7 +3,7 @@ module.exports = {
     lang: 'zh-CN',
     title: 'StevenL的博客',
     description: '有趣灵魂的自我分享',
-    base: '/SevenLBlog',
+    base: '/SevenLBlog/',
     // 主题和它的配置
     theme: '@vuepress/theme-default',
     themeConfig: {
